@@ -1,0 +1,12 @@
+.wrapper{
+    position: relative;
+    width: 300px;
+    height: 100vh;
+    margin: 0 auto;
+    overflow: hidden;
+
+    &__inner{
+        position: absolute;
+        top:-20px;
+    }
+}
